@@ -1,0 +1,4 @@
+"Pathway","P-value","Adjusted P-value","NES","Direction","Genes"
+"conserved Plasmodium protein, unknown function",0.0038,0.0528,1.58,"Up",37
+"RNA-binding protein, putative",0.0339,0.1682,1.58,"Up",6
+"erythrocyte membrane protein 1, PfEMP1",0.036,0.1682,-1.52,"Down",8

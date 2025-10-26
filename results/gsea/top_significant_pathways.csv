@@ -1,0 +1,4 @@
+"pathway","pval","padj","NES"
+"conserved Plasmodium protein, unknown function",0.00377342192922823,0.0528279070091952,1.58120239684587
+"RNA-binding protein, putative",0.0339198096422669,0.168224392000519,1.58362734837701
+"erythrocyte membrane protein 1, PfEMP1",0.0360480840001112,0.168224392000519,-1.51723591624416
