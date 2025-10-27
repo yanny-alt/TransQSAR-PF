@@ -1,0 +1,4 @@
+"Functional_Category","Count","Total_Importance","Avg_Importance","Features"
+"Conserved Unknown Function",9,34,3.78,"CQ_106_1_DE.CQ_106_1_DE_40; Variability.Variability_Pf.12.198.0_CDS_at; CQ_DE.CQ_DE_169; Variability.Variability_Pf.13_1.443.0_CDS_at; CQ_106_1_DE.CQ_106_1_DE_79; Variability.Variability_Pf.2.13.0_CDS_at; Genotype_DE.Genotype_DE_184; Variability.Variability_Pf.5.281.0_CDS_at; CQ_106_1_DE.CQ_106_1_DE_135"
+"Drug Response",1,5.31,5.31,"CQ_DE.CQ_DE_128"
+"Other/Unclassified",3,8.47,2.82,"Genotype_DE.Genotype_DE_88; Genotype_DE.Genotype_DE_92; Genotype_DE.Genotype_DE_98"
